@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3040158AD07a79C2052e474250188315e3861f75",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3040158ad07a79c2052e474250188315e3861f75",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MIYU",
+  "SYMBOL": "MIYUN",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/miyu",
+  "SHOW_BACKGROUND": true
+}
